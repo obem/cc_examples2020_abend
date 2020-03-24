@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="902c2327-b0c9-468f-846a-a2e2f9d035a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tire.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +52,11 @@
       <updated>1584823783766</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="69" key="FileChooserDialogImpl" timestamp="1584824369299">
+      <screen x="0" y="0" width="1504" height="972" />
+    </state>
+    <state x="383" y="69" key="FileChooserDialogImpl/0.0.1504.972@0.0.1504.972" timestamp="1584824369299" />
   </component>
 </project>

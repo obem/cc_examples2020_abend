@@ -48,6 +48,6 @@ public class Tire {
      */
     @Override
     public String toString() {
-        return name + " R" + radius;
+        return name + " R " + radius;
     }
 }
